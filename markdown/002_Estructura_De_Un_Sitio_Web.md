@@ -49,7 +49,7 @@ El head representa una colección de metadatos del documento, estos datos le pas
 ~~~html
 <!-- Datos que le pasamos al navegador con información de nuestra página web. -->
 <head>
-    <title>Document</title>    
+    <title>Mi primera página web</title>    
 </head>
 ~~~
 
@@ -75,3 +75,8 @@ Los comentarios son utilizados para poder tener algo de información en nuestro 
 
 Tecla rápida CTRL + Ç
 
+## Codificación
+
+Los acentos pértenecen a una codificación Latina que por defecto los navegadores no le entienden salvo que se lo digamos esplícitamente.
+
+Para ello en el `<head></head>` donde le pasamos los datos importantes para el navegador colocaremos `<meta charset="">` que sería el conjunto de caracteres y el que necesitamos es UTF-8. Con esto le estamos indicando que estamos utilizando el set de caracteres Latino.
