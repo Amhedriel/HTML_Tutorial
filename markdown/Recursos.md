@@ -14,3 +14,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 El link es: 
 
 https://www.w3schools.com/html/
+
+---
+## Validator
+
+Es una pagina donde podemos validar nuestro código HTML y verificar si está correcto semanticamente hablando.
+
+https://validator.w3.org/#validate_by_input
+
+![Validador](/media/Error_article.png)
