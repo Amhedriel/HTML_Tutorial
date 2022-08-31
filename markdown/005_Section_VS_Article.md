@@ -89,6 +89,40 @@ Para los `article` el `header` y el `footer` no son obligatorios, pero, como los
 
 ~~~
 
+Para agregar, podemos tener un ``section`` con más `section` dentro, es decir que en el `main` podriamos tener uh `h1` que pusiera **section** como contenedor y donde abrimos el `section` podríamos tener el `h1` como contenedor en lugar que fuera el título principal del
+`main` y debajo de este `h1` tener un `section`. Esto es completamente valido semanticamente porque ``section`` lo que hace es agrupar contenido relacionado, por lo que en este caso todo lo que estamos agrupando son noticias por lo tanto es válido.
+
+~~~html
+<body>
+  <header>
+    <h1>NOTICIAS NACIONALES</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Section como contenedor</h2>
+      <section>
+        <h2>Noticas del día</h2>
+        <article>
+          <header>
+            <h3>Noticia 1</h3>
+        </header>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta libero debitis incidunt itaque illo magni? Reprehenderit beatae commodi placeat maxime ipsam in optio quia sunt rerum, vero corrupti? Repudiandae, mollitia.</p>
+        <footer>La noticia ocurrió en Buenos Aires</footer>
+        </article>
+        <article>
+        <h3>Noticia 2</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut debitis, cupiditate deserunt quidem accusantium maxime facilis commodi, sed ipsa reprehenderit quasi sapiente tempore delectus animi tempora, magnam assumenda illo itaque deleniti accusamus laboriosam libero possimus. Quis, consectetur hic sequi natus accusamus commodi repellendus possimus! Rerum libero soluta, necessitatibus totam et quisquam ipsa vel qui dolor illo! Reiciendis, laborum iusto. Quidem excepturi quisquam corporis consectetur architecto culpa sunt ullam, rerum perspiciatis laborum nesciunt sint magnam voluptatum quasi tempore ducimus totam recusandae!</p>
+        </article>
+        <article>
+        <h3>Noticia 3</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt facere amet fugit ducimus perspiciatis odit aperiam, id at, eius, laboriosam commodi? Reprehenderit dicta iure est repellat nesciunt eius voluptate, at debitis, ut excepturi error voluptas ab modi? Eos saepe perspiciatis quo. Libero, totam architecto nobis nihil quam numquam atque, iure asperiores dolorum inventore perspiciatis, ex dicta nulla. Doloribus, alias. Iure.</p>
+        </article>
+      </section>
+    </section>
+  </main>
+  <footer>David A. Beltrán R. de C. 30 - 08 - 2022</footer>
+</body>
+~~~
 
 
 
