@@ -5,7 +5,7 @@ Veremos la diferencia de usar ``<section>``, ``<article>`` y ``<aside>``.
 ## \<section>\</section>
 Es un contenedor genérico que agrupa contenido que está relacionado. Cuando creamos bloques cuyo contenido es parte de un bloque total usaremos section.
 
-El elemento HTML ``<section>`` representa una sección independiente genérica de un documento, que no tiene un elemento semántico más específico para representarlo. Las secciones siempre deben tener un encabezado, con muy pocas excepciones.
+El elemento HTML ``<section>`` representa una sección independiente genérico de un documento, que no tiene un elemento semántico más específico para representarlo. Las secciones siempre deben tener un encabezado, con muy pocas excepciones.
 
 ## \<article>\</article>
 Es un contenedor que representa contenido independiente, es decir, podemos leer ese fragmento en cualquier otro sitio y tendría sentido por sí mismo.
@@ -15,7 +15,7 @@ El elemento HTML ``<article>`` representa una composición autónoma en un docum
 ## \<aside>\</aside>
 Se utiliza para representar contenido relacionado pero que no forma parte del contenido principal.
 
-El elemento HTML ``<aside>`` representa una parte de un documento cuyo contenido solo está relacionado indirectamente con el contenido principal del documento. Los apartes se presentan con frecuencia como barras laterales o cajas de llamadas.
+El elemento HTML ``<aside>`` representa una parte de un documento cuyo contenido solo está relacionado indirectamente con el contenido principal del documento. Los aportes se presentan con frecuencia como barras laterales o cajas de llamadas.
 
 ## Anidamiento:
 Un section puede contener ``<article>``,por ejemplo, si tenemos varios artículos que hablan sobre noticias, deben ir dentro de un ``<section></section>``, ya que es contenido relacionado entre sí, y los ``<article></article>`` serían contenido independiente porque podríamos leer uno sin haber leido el resto, y seguiría teniendo sentido.
