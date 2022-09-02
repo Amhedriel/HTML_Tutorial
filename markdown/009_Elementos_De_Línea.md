@@ -1,6 +1,6 @@
 # Elementos de Línea I
 
-Hablaremos de algunos elemntos de línea en esta sección:
+Hablaremos de algunos elementos de línea en esta sección:
 
 ## \<em>
 Etiqueta que se utiliza para representar énfasiscon esto aparecerán las palabras en cursiva pero esto no significa que con la etiqueta `<em></em>` pongamos el texto en cursiva, para estilos se utiliza CSS.
@@ -13,7 +13,7 @@ El elemento ``<em>`` puede ser anidado, con cada nivel de anidamiento indicando 
     <p><em>El dinero</em> es importánte pero la salud es lo más importante</p>
 ~~~
 
-
+---
 ## \<strong>
 
 El elemento strong es el apropiado para marcar con especial énfasis las partes más importantes de un texto.
@@ -35,6 +35,7 @@ Menos énfasis que el texto normal.
 
 Con esto decimos que tiene mucha menos relevancia para que el texto que el resto del texto.
 
+---
 ## \<br>
 
 El elemento HTML line break \<br> produce un salto de línea en el texto (retorno de carro). Es útil para escribir un poema o una dirección, donde la división de las líneas es significante.
@@ -52,12 +53,15 @@ nesciunt quisquam alias, ipsum rem vitae sed consequatur architecto perferendis 
 
 Ahora dá igual que haya espacio disponible, porque el navegador va a forzar un salto de línea en este punto
 
-No utilices \<br> para incrementar el espacio entre líneas de texto; para ello utiliza la propiedad margin de CSS o el elemento \<p>.
+No utilices \<br> para incrementar el espacio entre líneas de texto; para ello utiliza la propiedad ``margin`` de CSS o el elemento \<p>.
 
-Indica donde empieza la siguiente línea después del salto.
+Indica donde empieza la siguiente línea después del salto. Se usaba para establecer una dirección por ejemplo, que los saltos de lineas si són relevantes, un poema o cualquier tipo de texto que el salto de línea si que tenga relevancia y sea importante.
 
-**Nota de uso:** Este atributo está obsoleto en HTML5 y no debe utilizarse por los autores. En su lugar utiliza la propiedad clear de CSS.
+Jamás utilizar `br` para dar separación entre 2 elementos.
 
+**Nota de uso:** Este atributo está obsoleto en HTML5 y no debe utilizarse por los autores. En su lugar utiliza la propiedad `clear` de CSS.
+
+---
 ## \<wbr>
 
 
