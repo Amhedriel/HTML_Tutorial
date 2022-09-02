@@ -64,11 +64,63 @@ Jamás utilizar `br` para dar separación entre 2 elementos.
 ---
 ## \<wbr>
 
+"Word Breaking Oportunity", esto es un salto de línea si al navegador le hiciera falta hacerlo, es decir, si nosotros tenemos una palabra larga y necesitemos cortarla en caso de que no quepa para eso se usa `<wbr>`, sin embargo una palabra lo suficientemente larga como para que no quepa en el navegador sería muy complicado pensar en una, pero si es una **url**:
 
+Digamos que tenemos una así:
+
+~~~html
+    <p>https://github.com/Amhedriel/<wbr>cursos/html/elementos/<wbr>elementos_de_linea?tab=overview&from=2022-09-01&to=2022-09-01</p>
+~~~
+
+Donde lo tengamos guardado o estructurado de otra forma, y queramos que se corte en puntos concretos como por ejemplo después de algubas barras, tendríamos que usar esta etiqueta.
+
+---
 ## \<time>
 
+Esta etiqueta se utiliza para representar un contenido de **fecha** y **hora**, en que casos puede ser relevante tener fecha y hora, como por ejemplo en un Blog o un Post en el que sea publicado a cierto día y cierta hora y sea relevante que sea ese día y esa hora.
 
-## hora/fecha
+El elemento HTML \<time> representa un periodo específico en el tiempo. Puede incluir el atributo ``datetime`` para convertir las fechas en un formato interno legible por un ordenador, permitiendo mejores resultados en los motores de búsqueda o características personalizadas como recordatorios.
 
+Puede representar uno de los contenidos siguientes:
 
+* Una hora en formato de 24 horas
+* Una fecha precisa en el Calendario Gregoriano (con hora y zona horaria opcionales)
+* Un periodo de tiempo válido
+
+Lo muestra como si lo tuviéramos dentro de cualquier otra etiqueta pero el navegador está entendiendo que está representando una fecha y por lo tanto le dará la importancia semántica que debería tener fecha/hora.
+
+El orden de fecha/hora no es necesario, es válido hora/fecha o si sólo tuvieramos hora.
+
+~~~html
+<time>01/09/2022 10:35</time>
+~~~
+
+---
 ## \<i> \<b> \<u>
+
+Por último tenemos estas 3 etiquetas que se utilizan para dar estilo, sin embargo no se utilizan porque para eso está CSS.
+
+~~~html
+    <p>
+      <i>Italic</i>
+      <b>Bold</b>
+      <u>Underline</u>
+    </p>
+~~~
+
+Sin embargo el único que sería utilizado para tener iconos es la etiqueta `<i></i>`.
+
+---
+
+## \<sup>
+
+Es la etiqueta de super índice generlmente utilizada en matemátias o ciencias.
+
+~~~html
+<p>4 elevado al cuadrado se representa así 4 <sup>2</sup></p>
+~~~
+
+## \<sub>
+
+Cuando estamos escribiendo algo referido con la química los subíndices si son importantes.
+

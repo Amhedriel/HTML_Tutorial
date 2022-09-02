@@ -23,3 +23,11 @@ Es una pagina donde podemos validar nuestro código HTML y verificar si está co
 https://validator.w3.org/#validate_by_input
 
 ![Validador](/media/Error_article.png)
+
+---
+
+## Librería de iconos
+
+https://fontawesome.com/
+
+Librería de iconos más popular en la web.
