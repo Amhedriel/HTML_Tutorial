@@ -119,8 +119,12 @@ Es la etiqueta de super índice generlmente utilizada en matemátias o ciencias.
 ~~~html
 <p>4 elevado al cuadrado se representa así 4 <sup>2</sup></p>
 ~~~
+---
 
 ## \<sub>
 
 Cuando estamos escribiendo algo referido con la química los subíndices si son importantes.
 
+~~~html
+<p>Agua oxigenada tiene la fórmula H<sub>2</sub>O<sub>2</sub> </p>
+~~~
