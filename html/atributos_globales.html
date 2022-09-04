@@ -10,6 +10,9 @@
     .parrafo-1 {
         color:red;
     }
+    .body-1 {
+      font-size: x-large;
+    }
   </style>
 </head>
 <!--
@@ -22,16 +25,17 @@
   data -> Es un atributo que nos permite guardar algún valor en la etiqueta HTML
 
  -->
-<body>
+<body class="body-1">
   <p class="parrafo-1">Clases</p>
   <p id="parrafo">Identificador</p>
-  <p>Título con tooltip</p>
-  <p>Datos pasados en la etiqueta</p>
+  <p title="Este es un ejemplo del atributo title">Título con tooltip</p>
+  <p id="parrafo-2" data-ejemplo="Datos de ejemplo">Datos pasados en la etiqueta</p>
 
   <script>
     const p = document.getElementById('parrafo')
-
+    const parrafo2 = document.getElementById('parrafo-2')
     console.log(p.textContent)
+    console.log(parrafo2.dataset.ejemplo)
   </script>
 </body>
 </html>
