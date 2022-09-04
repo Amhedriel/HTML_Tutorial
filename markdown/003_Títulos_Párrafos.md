@@ -53,3 +53,40 @@ Los párrafos son elementos de nivel de bloque y, en particular, se cerrarán au
 
 ---
 
+## \<pre> (Texto HTML **pre***formateado*)
+
+Representa texto preformateado.
+
+El texto en este elemento típicamente se muestra en una fuente fija, no proporcional, exactamente como es mostrado en el archivo. Los espacios dentro de este elemento también son mostrados como están escritos.
+
+~~~html
+    <!-- Un podo de código CSS -->
+    <pre>
+    body{
+        
+        color: red;
+    }
+
+    a   {
+
+        color:green;
+    
+    }
+    </pre>
+~~~
+RESULTADO:
+
+~~~css
+    body{
+        
+        color: red;
+    }
+
+    a   {
+
+        color:green;
+    
+    }
+~~~
+
+Esta etiqueta mostrará un resultado igual al escrito dentro.
