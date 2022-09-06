@@ -31,3 +31,12 @@ https://validator.w3.org/#validate_by_input
 https://fontawesome.com/
 
 Librería de iconos más popular en la web.
+
+---
+## Tipografías
+
+https://fontawesome.com/
+
+Librería icónica para fuentes.
+
+---
