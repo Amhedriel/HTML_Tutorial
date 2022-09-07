@@ -25,4 +25,20 @@ En este momento hablaremos de los 2 atributos más importantes que tiene la etiq
 </body>
   ~~~
 
-Recordar que el recurso no se abre, simplemente se descarga
+Recordar que el recurso no se abre, simplemente se descarga.
+
+*``download``* indica que el hipervinculo es utilizado para descargar un recurso.
+
+No podemos descargar un HTML de otro punto al igual que las imágenes, debido a que las rutas no corresponden a nuestro servidor ya que son rutas absolutas, para descargar un archivo debe estar en nuestro servidor.
+
+## Estructura de HTML con imágenes
+
+En primer lugar debemos crear una carpeta llamada **assets**, en esta carpeta se guardan todos los medios externos, imágenes, videos, música, iconos, etc. y dentro de esta carpeta crearemos una carpeta llamada **images**.
+
+## Navegación con Anclas
+
+Haremos navegación internas dentro de nuestro sitio web, para este ejemplo crearemos un Blog.
+
+Tendremos 5 posts con texto de relleno (Lorem) y navegaremos entre ellos.
+
+
