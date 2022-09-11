@@ -83,6 +83,27 @@ Visualmente se puede arreglar todo con CSS, pero lo importante es la estructura 
 ---
 ## Listas de definición
 
+Las listas de definición que se representan con `<dl></dl>` (Definition List) y cada elemento de una lista de definición lleva 2 etiqueas:
 
+* dt -> Definition term: El término que vamos a definir.
 
+* dd -> Definition description: La descripción del término.
 
+~~~HTML
+  <h2>Lenguajes para el desarrollo web </h2>
+  <dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language: Es un lenguaje de marcado que se usa para estructurar datos en una página web.
+    </dd>
+
+  </dl>
+    <dl>
+    <dt>CSS</dt>
+    <dd>Cascade Style Sheets: Es un lenguaje de diseño que se utiliza para dar estilos a HTML.</dd>
+  </dl>
+
+  <dl>
+    <dt>JavaScrip</dt>
+    <dd>Es un lenguaje de programación para dar interactividad a un sitio web.</dd>
+  </dl>
+~~~
