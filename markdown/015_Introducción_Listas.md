@@ -65,3 +65,24 @@ Todos los menús de navegación se construyen de esta forma: `<nav></nav>`, dent
 
 ## Listas ordenadas
 
+La semantica de las listas ordenadas es practicamente la misma que las desordenadas.
+
+~~~html
+  <h2>Orden de aprendizaje en el desarrollo web</h2>
+  <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ol>
+~~~
+
+Aqui en este caso concreto si es importante este orden, no podemos aprender diseño para una estructura que no conocemos, al igual que no podemos aprender interactividad para un elemento o arquitectura que no tenemos.
+
+Visualmente se puede arreglar todo con CSS, pero lo importante es la estructura con HTML.
+
+---
+## Listas de definición
+
+
+
+
