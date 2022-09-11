@@ -7,6 +7,8 @@ Las listas en HTML sirven para listar el contenido, en función del contenido qu
 
 * ***dl*** -> definition list; Se utilizan para hacer una lista de definiciones (diccionario).
 
+Cada elemento de la lista se representa con la etiqueta `<li></li>`, tanto en las `ul` cómo las `ol`.
+
 ## ul listas desordenadas
 
 Para poder crear una lista desordenada nosotros debemos colocar un `ul` y dentro colocar los items de esa lista, para poder colocar esos items debemos utilizar la etiqueta `<li></li>` que significa *list item* es decir elemento de lista.
