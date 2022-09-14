@@ -114,4 +114,19 @@ Este sería un ejemplo de maquetación de tablas.
 ![Tabla1](/media/Tablas1.png "Tabla_básica")
 
 
+|8:30 - 9:30      |Matemáticas      |Matemáticas      |Sociales         |Matemáticas      |Matemáticas      |
+| ----------------| ----------------| ----------------| ----------------| ----------------| ----------------|
+|9:30 - 10:25     |Lenguaje         |Lenguaje         |Matemáticas      |Ciencias         |Lenguaje         |
+|                 |                 |                 |                 |                 |                 |
+|10:25 - 11:20    |Educación Física |Ciencias         |Lenguaje         |Lenguaje         |Educación Física |
+|                 |                 |                 |                 |                 |                 |
+|11:20 - 11:45    |Recreo           |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|11:45 - 12:40    |Inglés           |Sociales         |Inglés           |Tutoría          |Inglés           |
+|                 |                 |                 |                 |                 |                 |
+|12:40 - 13:35    |Música           |Educación Física |Plástica         |Religión         |Música           |
+|                 |                 |                 |                 |                 |                 |
+|131:35 - 14:30   |Tecnología       |Francés          |Tecnología       |Francés          |Tecnología       |
+|                 |                 |                 |                 |                 |                 |
+
 
