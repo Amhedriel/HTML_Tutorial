@@ -5,6 +5,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tablas</title>
+  <style>
+  /* 
+    col:nth-child(2){
+      background-color: aqua;
+    }
+   
+    col {
+      background-color: tomato;
+    }
+    td {
+      background-color: steelblue;
+    }
+  */
+
+  </style>
+
 </head>
 <body>
 
@@ -12,6 +28,14 @@
   
   <table>
     <caption>HORARIO DE CLASES </caption>
+    <colgroup>
+      <col>
+      <col>
+      <col>
+      <col>
+      <col>
+      <col>
+    </colgroup>
     <thead>
       <tr>
         <th></th>
@@ -49,11 +73,7 @@
     </tr>
     <tr>
       <td>11:20 - 11:45</td>
-      <td>Recreo</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="5">Recreo</td>
     </tr>
     <tr>
       <td>11:45 - 12:40</td>
@@ -65,24 +85,22 @@
     </tr>
     <tr>
       <td>12:40 - 13:35</td>
-      <td>Música</td>
+      <td rowspan="2">Tecnología</td>
       <td>Educación Física</td>
       <td>Plástica</td>
       <td>Religión</td>
-      <td>Música</td>
+      <td rowspan="2">Tecnología</td>
     </tr>
     <tr>
       <td>13:35 - 14:30</td>
-      <td>Tecnología</td>
       <td>Francés</td>
       <td>Tecnología</td>
       <td>Francés</td>
-      <td>Tecnología</td>
     </tr>
     </tbody>
     <tfoot>
       <tr>
-        <td>Total de asignaturas</td>
+        <td colspan="5">Total de asignaturas</td>
         <td>12</td>
       </tr>
     </tfoot>
