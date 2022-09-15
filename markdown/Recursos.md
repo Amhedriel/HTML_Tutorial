@@ -26,6 +26,12 @@ https://validator.w3.org/#validate_by_input
 
 ---
 
+## Códigos ASCII
+
+[código_ASCII](https://ascii.cl/es/codigos-html.htm)
+
+---
+
 ## Librería de iconos
 
 https://fontawesome.com/
