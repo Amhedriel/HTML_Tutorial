@@ -76,6 +76,15 @@ ___
 <!-- Si quieres que el URL sea el mismo enlace basta conque incluyas la propia URL entre los símbolos <> -->
 <https://enfoquenomada.com>
 
+<!-- Si queremos tener enlaces para saltar de un tema a otro, es decir un enlace interno, podriamos hacerlo mediante los encabezados, porque se generan automáticamente como anclas internas -->
+
+[Separaciones](#separaciones)
+
+[Encabezado](#encabezado-1)
+
+<!-- Notar que las separaciones tienen guiones medios -->
+[Párrafos_y_saltos_de_líneas](#párrafos-y-saltos-de-línea)
+
 ---
 
 ## Imágenes
