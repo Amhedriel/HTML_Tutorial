@@ -43,6 +43,13 @@ por la terraza de madera"
 
 <!-- como se vio en el ejemplo de numeradas se pueden anidar ambos tipos de listas -->
 
+Recuerda:
+
+- [] Darte de alta en GitHub.
+- [] Revisar los tutoriales.
+- [ ] Sumarte a la Organización.
+- [ ] Completar tu acceso a Microsoft Teams al final de la semana.
+
 ---
 
 ## Separaciones
