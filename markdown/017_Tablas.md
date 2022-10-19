@@ -131,3 +131,9 @@ Este sería un ejemplo de maquetación de tablas.
 
 
 La única distinta es la celda de recreo, que tiene que ocupar todo el espacio y lo veremos en el apartado de atributos de las tablas.
+
+
+[Siguiente **&#129042;**](/markdown/018_Estructura_Tablas.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

@@ -202,3 +202,8 @@ Con este `style` le estamos diciendo que nos seleccione el **segundo** `colspan`
 Con este `col span="5"` esta ocupando desde la primera columna hasta la quinta.
 
 La opción `colgroup` es muy buena opción para dar a estilos como dar color a cada uno de las columnas, pero no es la forma correcta de dar estilo, asi que la mejor opción es CSS y no manchar nuestro html.
+
+[Siguiente **&#129042;**](/markdown/020_Etiquetas_Importantes_Bloque.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

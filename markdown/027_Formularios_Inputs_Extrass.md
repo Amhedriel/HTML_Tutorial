@@ -100,3 +100,8 @@ El ``input`` que se denomina del tipo texto, es el valor por defecto, que equiva
     <input type="hidden">
   </form>
 </body>
+
+[Siguiente **&#129042;**](/markdown/028_Formularios_Inputs_Radio.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

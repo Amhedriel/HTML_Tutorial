@@ -61,3 +61,7 @@ En este ejemplo podríamos volver al documento de `index.html` desde cualquier o
 
 Si en la ruta solo pusieramos la barra inclinada `"/"` entonces volveríamos a `index.html` sin la necesidad de especificar esto es asi porque, es el archivo que por defecto intentarán cargar todos los navegadores.
 
+[Siguiente **&#129042;**](/markdown/014_Atributos_Enlaces.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

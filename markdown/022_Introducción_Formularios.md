@@ -49,4 +49,8 @@ El comportamiento de un formulario es cojer la información rellenada y enviarla
 
 La página enviará un error porque no existe la ruta de "enviar.html" dentro de la carpeta formularios, entonces `action` lo que normalmente lleva o un documento de servidor que podría ser PHP o lo que se hace es bloquear el envio del formulario a través de JavaScript y una vez que se gestionó ese formulario una vez hechas las modificaciones necesarias, nosotros pausamos el envío con JS y después lo enviamos con JS.
 
+[Siguiente **&#129042;**](/markdown/023_Formularios_Input_Label.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
 

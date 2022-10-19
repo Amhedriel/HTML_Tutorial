@@ -84,3 +84,8 @@ https://getwaves.io
 Permite crear *waves* (ondas u olas) para poder colocarlo en el pie de página de una web o hacer una maquetación en concreto, se puede descargar el archivo en SVG o copiar el código, se podría hacer una animación de olas interesante con estas opciones.
 
 ---
+
+[Siguiente **&#129042;**](/markdown/01_Practica_seccion_de_contenido.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](#mdn "Ir al título")

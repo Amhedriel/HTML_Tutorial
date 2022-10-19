@@ -94,3 +94,8 @@ Si queremos que se pudiera seleccionar más de uno tenemos el atributo `multiple
 De esta forma en lugar de tener un desplegable tendremos una lista que nospermite seleccionar uno, pero si pulsamos la tecla CTRL os permite seleccionar más de uno.
 
 Esta es la forma de trabajar con un `<select></select>` de forma simple.
+
+[Siguiente **&#129042;**](/markdown/031_Formularios_Select_Avanzados.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

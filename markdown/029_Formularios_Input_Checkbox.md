@@ -44,3 +44,8 @@ Podemos usar el atributo booleano `checked` incluso en las 3 opciones y esto ser
     </label>
   </form>
 </body>
+
+[Siguiente **&#129042;**](/markdown/030_Formularios_Select.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

@@ -145,3 +145,8 @@ Tenemos otro atributo que es obligatorio que se llama `value=""` que nos sirve p
 ~~~
 
 Esto cuando se envie al servidor lo que va a recibir es `name="gender"` y los `value=""` para saber a que categoría pertenece y cual es el valor que a elegido el usuario.
+
+[Siguiente **&#129042;**](/markdown/029_Formularios_Input_Checkbox.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

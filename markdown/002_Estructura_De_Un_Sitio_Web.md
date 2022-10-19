@@ -80,3 +80,8 @@ Tecla rápida CTRL + Ç
 Los acentos pértenecen a una codificación Latina que por defecto los navegadores no le entienden salvo que se lo digamos esplícitamente.
 
 Para ello en el `<head></head>` donde le pasamos los datos importantes para el navegador colocaremos `<meta charset="">` que sería el conjunto de caracteres y el que necesitamos es UTF-8. Con esto le estamos indicando que estamos utilizando el set de caracteres Latino.
+
+[Siguiente **&#129042;**](/markdown/003_T%C3%ADtulos_P%C3%A1rrafos.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

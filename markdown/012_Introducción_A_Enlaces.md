@@ -49,4 +49,7 @@ Con esto podremos tener un link a *index.html* o **home**
 ---
 ## **target**
 
- 
+ [Siguiente **&#129042;**](/markdown/013_Rutas_Absolutas_Relativas.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

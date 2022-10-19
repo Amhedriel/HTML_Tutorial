@@ -108,3 +108,8 @@ El elemento `hr` representa un quiebre en la temática del párrafo, como el cam
 ~~~
 
 De momento estas son algunas estiquetas a nivel de bloque.
+
+[Siguiente **&#129042;**](/markdown/021_Etiquetas_Importantes_L%C3%ADnea.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

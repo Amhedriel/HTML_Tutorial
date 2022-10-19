@@ -84,4 +84,7 @@ Ahora observamos que al hacer la revisión de nuestro html no encontrará ningun
 
 ![Article](/media/Article_Encerrando_Section_sin_error.png "Article encerrando section correcto")
 
+[Siguiente **&#129042;**](/markdown/007_Aside.md "Resumen")
 
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

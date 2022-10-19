@@ -130,3 +130,8 @@ Un tipo no muy utilizado hoy en día pero debemos tener presente que existe.
 </body>
 
 Con lo cual podremos escoger una semana del año.
+
+[Siguiente **&#129042;**](/markdown/026_Formularios_Inputs_M%C3%B3viles.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

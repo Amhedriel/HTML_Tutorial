@@ -128,3 +128,8 @@ Cuando estamos escribiendo algo referido con la química los subíndices si son 
 ~~~html
 <p>Agua oxigenada tiene la fórmula H<sub>2</sub>O<sub>2</sub> </p>
 ~~~
+
+[Siguiente **&#129042;**](/markdown/010_Atributos.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

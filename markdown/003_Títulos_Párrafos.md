@@ -90,3 +90,8 @@ RESULTADO:
 ~~~
 
 Esta etiqueta mostrará un resultado igual al escrito dentro.
+
+[Siguiente **&#129042;**](/markdown/004_Header_Main_Footer.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

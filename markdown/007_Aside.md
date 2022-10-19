@@ -36,3 +36,9 @@ Es decir nosotros tenemos una web donde hablamos de curso de desarrollo web grat
 Revisando lo escrito arriba veremos que es semanticamente correcto en la W3C.
 
 ![aside](/media/Aside_correcto.png "Ejemplo aside correcto")
+
+
+[Siguiente **&#129042;**](/markdown/008_Elementos_Bloque.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

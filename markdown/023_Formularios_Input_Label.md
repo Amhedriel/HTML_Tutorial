@@ -34,3 +34,8 @@ Esta es una forma de asociar un `label` con un `input`, pero aunque hay otra man
 ~~~
 
 Con esto se obtiene el mismo resultado que en el anterior código, pero esta forma no es muy común porque al momento de dar estilos por tener el `label` y el `input` en un bloque, da pocas opciones de jugar con los elementos, sin embargo recordemos que es válido.
+
+[Siguiente **&#129042;**](/markdown/024_Formularios_Button_Type_Button.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

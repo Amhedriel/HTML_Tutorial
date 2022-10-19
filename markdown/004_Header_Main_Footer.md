@@ -49,3 +49,8 @@ El elemento HTML ``<footer>`` representa un pie de página para su contenido de 
 ~~~
 
 Evidentemente este ejemplo no es la mejor manera de hacerlo pero sirve para ver el aspecto que tiene es suficiente de momento, mientras avancemos construiremos de manera más significativa.
+
+[Siguiente **&#129042;**](/markdown/005_Section_VS_Article.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

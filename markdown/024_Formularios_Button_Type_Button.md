@@ -90,3 +90,8 @@ Ahora bien, si queremos enviar el formulario con un `<input type="">` tendríamo
 </body>
 
 Y si llenamos el cvampo de `input` y enviamos el formulario con enviar entonces si se enviaría.
+
+[Siguiente **&#129042;**](/markdown/025_Formularios_Inputs_fechas.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

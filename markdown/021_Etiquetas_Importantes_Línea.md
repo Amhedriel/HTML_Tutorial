@@ -70,3 +70,7 @@ Con esos códigos ASCII ahora podemos representar los símbolos de mayor y menor
 
 Y en Visual Studio podemos escribir el andpersan (&) y presionamos CTRL + SPACE nos enseñará una lista larguísima de todos los símbolos que se pueden escribir.
 
+[Siguiente **&#129042;**](/markdown/022_Introducci%C3%B3n_Formularios.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

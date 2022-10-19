@@ -41,3 +41,7 @@ En `head` tenemos el `meta charset`
 
 Aqui tenemos una **etiqueta** `meta` y como configuración tenemos `charset` que es un **atributo** que declara la codificación de carateres de la página, en este caso es `"UTF-8"` que sería el **valor**.
 
+[Siguiente **&#129042;**](/markdown/011_Atributos_Globales.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

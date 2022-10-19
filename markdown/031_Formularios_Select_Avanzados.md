@@ -115,3 +115,8 @@ Veremos que al desplegar tendremos categorías.
 </html>
 
 Ahora cada elemento está en su respectivo grupo.
+
+[Siguiente **&#129042;**](/markdown/032_Datalist_Select_Element.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

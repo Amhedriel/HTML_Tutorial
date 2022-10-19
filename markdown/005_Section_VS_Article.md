@@ -124,6 +124,9 @@ Para agregar, podemos tener un ``section`` con más `section` dentro, es decir q
 </body>
 ~~~
 
+[Siguiente **&#129042;**](/markdown/006_Article_VS_Section.md "Resumen")
 
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
 
 

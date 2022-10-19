@@ -93,3 +93,9 @@ Es completamente opcional y se utiliza para poner un pie de tabla.
 ~~~
 
 Con esto tendríamos la estructura completa de una **tabla**, `<thead></thead>` `<tbody></tbody>` `<tfoot></tfoot>` y dentro tenemos los `<tr></tr>` para las filas y los `<td></td>` para las celdas.
+
+
+[Siguiente **&#129042;**](/markdown/019_Atributos_De_Tablas.md "")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

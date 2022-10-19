@@ -82,3 +82,8 @@ Al tener este atributo `data-ejemplo` le damos un valor `="Datos de ejemplo"` y 
 y en consola veremos el resultado gracias a `console.log`.
 
 ![Consola](/media/Consola1.png "Resultado de la consola")
+
+[Siguiente **&#129042;**](/markdown/012_Introducci%C3%B3n_A_Enlaces.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
