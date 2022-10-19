@@ -170,7 +170,7 @@ Se intentó esctructurar la página de manera semánticamente correcta, por lo q
 
 ---
 
-[Siguiente **&#129042;**](/markdown/README.md "Resumen")
+[Siguiente **&#129042;**](/markdown/002_Estructura_De_Un_Sitio_Web.md "Resumen")
 
 ---
 [*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")

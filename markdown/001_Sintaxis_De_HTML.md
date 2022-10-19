@@ -15,3 +15,8 @@ Crearemos un **etiqueta** HTML, la sintaxis empieza con el símbolo de menor que
 Y en medio de los 2 va el contenido de la **etiqueta**.
 
 Recordar que no todas las **etiquetas** tienen el mismo contenido y depende de elegir las **etiquetas** correctas en función del contenido que queremos tener.
+
+[Siguiente **&#129042;**](/markdown/002_Estructura_De_Un_Sitio_Web.md "Resumen")
+
+---
+[*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
