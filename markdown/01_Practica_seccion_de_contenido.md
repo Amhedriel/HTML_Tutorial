@@ -167,3 +167,10 @@ Se intentó esctructurar la página de manera semánticamente correcta, por lo q
 ~~~
 
 ![Practica1](/media/Practica1.png "Práctica semánticamente correcta")
+
+---
+
+[Siguiente **&#129042;**](/markdown/README.md "Resumen")
+
+---
+[*Volver* **&ldca;**](README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
