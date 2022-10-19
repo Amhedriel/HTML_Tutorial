@@ -37,7 +37,7 @@ Aqui veremos un índice general del contenido que aprendí (bueno, el que docume
 * [031_Formularios_Select_Avanzados.md]( "")
 * [032_Datalist_Select_Element]( "")
 * [Recursos.md]( "")
-* [01_Practica_seccion_de_contenido.md]( "")
+* [01_Practica_seccion_de_contenido.md](/markdown/01_Practica_seccion_de_contenido.md "Mira la práctica")
 * []( "")
 
 ---
