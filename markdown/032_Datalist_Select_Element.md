@@ -28,24 +28,6 @@ Luego, lo que funciona por dentro es exactamente igual que un `select`.
   
 </body>
 ~~~
-<body>
-  <h1>Elementos seleccionables</h1>
-  <form action="">
-    <input type="list" list="pets">
-    <datalist id="pets">
-      <option value="perro">Perro</option>
-      <option value="gato">Gato</option>
-      <option value="hamster">Hamster</option>
-      <option value="conejo">Conejo</option>
-      <option value="loro">Loro</option>
-      <option value="canario">Canario</option>
-      <option value="serpiente">Serpiente</option>
-      <option value="tarantula">Tarántula</option>
-    </datalist>
-
-  </form>
-  
-</body>
 
 Podemos observar que cuando colocamos el puntero sopbre el recuadro tendremos la opción múltiple representada con una flecha y nos salen los 2 valores `value="perro">Perro<`, si nosotros en `value` cambiamos, entonces al desplegar la primera opción que sale es el `value` y por debajo sale un peuqeña descripción si la necesitáramos.
 
