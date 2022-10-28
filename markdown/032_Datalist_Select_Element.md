@@ -29,6 +29,8 @@ Luego, lo que funciona por dentro es exactamente igual que un `select`.
 </body>
 ~~~
 
+![Recuadro](/media/datalist.png "Elementos seleccionables con filtro")
+
 Podemos observar que cuando colocamos el puntero sopbre el recuadro tendremos la opción múltiple representada con una flecha y nos salen los 2 valores `value="perro">Perro<`, si nosotros en `value` cambiamos, entonces al desplegar la primera opción que sale es el `value` y por debajo sale un peuqeña descripción si la necesitáramos.
 
 Bien podríamos no tener nada escrito fuera del `value` y utilizarlo para hacer algo así como una descripción `value="perro">En este caso un labrador<`.
@@ -43,7 +45,7 @@ Asi que en los casos que queramos hacer un `select` con un filtro y que al usuar
 
 
 
-[Siguiente **&#129042;**](/markdown/Recursos.md "")
+[Siguiente **&#129042;**](/markdown/033_Formularios_Mas_Elementos.md "")
 
 ---
 [*Volver* **&ldca;**](/markdown/README.md "Ir a Readme") [*Subir* **&#11165;**](# "Ir al título")
