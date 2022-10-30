@@ -36,6 +36,8 @@ Aqui veremos un índice general del contenido que aprendí (bueno, el que docume
 * [030_Formularios_Select.md](/markdown/030_Formularios_Select.md "")
 * [031_Formularios_Select_Avanzados.md](/markdown/031_Formularios_Select_Avanzados.md "")
 * [032_Datalist_Select_Element](/markdown/032_Datalist_Select_Element.md "")
+* [033_Formularios_Mas_Elementos](/markdown/033_Formularios_Mas_Elementos.md "Formularios_Mas_Elementos")
+* [Basic_HTML_Element_Reference](/markdown/Basic_HTML_Element_Reference.md "Element_Reference_Basic")
 * [Recursos.md](/markdown/Recursos.md "Recursos")
 * [01_Practica_seccion_de_contenido.md](/markdown/01_Practica_seccion_de_contenido.md "Mira la práctica")
 * []( "")
