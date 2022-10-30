@@ -1,4 +1,4 @@
-# Más elementos ddentro del formulario
+# Más elementos dentro del formulario
 
 Revisaremos elementos extras, recordemos que los formularios son una parte muy importante de HTML y de la web en general, por eso estamos intentando ver a fondo este tema de los formularios, ahora veremos los siguientes elementos:
 
