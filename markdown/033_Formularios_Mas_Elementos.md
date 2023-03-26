@@ -36,8 +36,9 @@ Revisaremos elementos extras, recordemos que los formularios son una parte muy i
     </fieldset>
   </form>  
 </body>
+<br>
 
-Etéticamente aparece un borde que desde CSS puede cambiarse, pero para poner un nombre, para que el usuario sepa que esto esto sería por ejemplo: *datos personales* tenemos la etiqueta `legend`.
+Estéticamente aparece un borde que desde CSS puede cambiarse, pero para poner un nombre, para que el usuario sepa que esto esto sería por ejemplo: *datos personales* tenemos la etiqueta `legend`.
 
 ## ``legend``
 
@@ -68,7 +69,7 @@ Sirve para poner una etiqueta al contenido de fieldset.
     </fieldset>
   </form>  
 </body>
-
+<br>
 Esto ayuda tanto al navegador como al usuario para estructurar los datos y saber que se espera en cada uno delos campos.
 
 ## Input tipo `file`
@@ -108,6 +109,7 @@ Sirve para cargar archivos que vayamos a enviar a travéz del formulario, nos co
       <input type="file">
     </form> 
 </body>
+<br>
 
 ## ``meter``
 

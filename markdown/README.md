@@ -1,6 +1,11 @@
 # HTML DE VERDAD
 
-En este curso y ayudas veremos lo que es HTML lo más completo y explicado posible, se debe recordar que HTML es un lenguaje muy amplio para poder abarcarlo todo en un tutorial como este, asi que al decir *"completo"* me refiero a que se utilizarán las etiquetas, elemetos, documentación y atributos más comunmente utilizados, porque aún exitiendo otros a parte de los que veremos aquí serían los menos utilizados, los cuales se pueden observar al completo en la [MDN](https://developer.mozilla.org/es/docs/Web/HTML "MDN HTML") y en la [W3C](https://www.w3schools.com/html/html_intro.asp "W3C HTML").
+En este curso y ayudas veremos lo que es HTML lo más completo y explicado posible, se debe recordar que HTML es un lenguaje muy amplio para poder abarcarlo todo en un tutorial como este, asi que al decir *"completo"* me refiero a que se utilizarán las etiquetas, elementos, documentación y atributos más comúnmente utilizados, porque aún existiendo otros a parte de los que veremos aquí serían los menos utilizados, los cuales se pueden observar al completo en la [MDN](https://developer.mozilla.org/es/docs/Web/HTML "MDN HTML") y en la [W3C](https://www.w3schools.com/html/html_intro.asp "W3C HTML").
+
+
+
+
+
 
 Aqui veremos un índice general del contenido que aprendí (bueno, el que documente) hasta el momento:
 

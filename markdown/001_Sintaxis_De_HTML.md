@@ -4,7 +4,7 @@ Primero debemos crear un archivo llamado index.html y escribir el contenido dese
 
 Para comenzar en HTML debemos aprender su sintaxis, asi que:
 
-Crearemos un **etiqueta** HTML, la sintaxis empieza con el símbolo de menor que `<` luego el `nombre` de la **etiqueta** y al cerrar con el símbolo de mayor que `>` sin embargo gracias a la extensión de "Auto close tag" autocompletará la **etiqueta** de cierre `</nombre>`
+Crearemos un **etiqueta** HTML, la sintaxis empieza con el símbolo de menor que `<` luego el `nombre` de la **etiqueta** y al cerrar con el símbolo de mayor que `>` sin embargo gracias a la extensión de "Auto close tag" auto completará la **etiqueta** de cierre `</nombre>`
 
 ~~~html
 <etiqueta>

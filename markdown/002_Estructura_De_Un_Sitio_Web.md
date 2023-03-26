@@ -1,18 +1,34 @@
-# Estrucutura y comentarios
+# Estructura y comentarios
 
-## Estructura
+## Estructura del documento HTML
+
+Todos los documentos HTML tienen una estructura requerida que incluye la siguiente declaración con elementos de apertura y cierre:
+
+```html
+<!DOCTYPE html>
+<html> </html>
+<head> </head>
+<body> </body>
+
+```
+
+La declaración de tipo de documento ``<!DOCTYPE html>`` informa a los navegadores web qué versión de HTML se está utilizando. Se coloca al principio del documento HTML. Después de la declaración de tipo de documento, el elemento ``<html>`` marca el comienzo del documento.
+
+Dentro del elemento `<html>`, el elemento `<head>` identifica la parte superior del documento. Sin embargo, el contenido dentro del elemento `<head>` no se muestra en la propia página web. En su lugar, debe incluir el título del documento, que se muestra en la barra de título de la ventana del navegador, enlaces a cualquier archivo externo o cualquier otra información beneficiosa.
+
+Todo el contenido visible dentro de la página web caerá dentro del elemento ``<body>``.
 
 Teniendo Visual Studio Code abierto, podemos pulsar SHIFT + 1 para poner una admiración hacia abajo y si presionamos ENTER se nos creará la estructura base de HTML.
 
 ~~~html
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     
-</head>
-<body>
-    
-</body>
+  </head>
+  <body>
+      
+  </body>
 </html>
 ~~~
 
@@ -22,11 +38,11 @@ De momento utilizaremos esta estructura básica.
 
     <!DOCTYPE html>
 
-Define que estandar de documento estamos siguiendo, esto representa que estamos utilizando el estandar de HTML5
+Define que estándar de documento estamos siguiendo, esto representa que estamos utilizando el estándar de HTML5
 
 ### \<html lang="en">
 ~~~html
-<!-- Inicio del documeto HTML -->
+<!-- Inicio del documento HTML -->
 <html lang="en">
 ~~~
 Esto significa que estamos estableciendo que el documento está en ingles.
@@ -77,7 +93,7 @@ Tecla rápida CTRL + Ç
 
 ## Codificación
 
-Los acentos pértenecen a una codificación Latina que por defecto los navegadores no le entienden salvo que se lo digamos esplícitamente.
+Los acentos pertenecen a una codificación Latina que por defecto los navegadores no le entienden salvo que se lo digamos explícitamente.
 
 Para ello en el `<head></head>` donde le pasamos los datos importantes para el navegador colocaremos `<meta charset="">` que sería el conjunto de caracteres y el que necesitamos es UTF-8. Con esto le estamos indicando que estamos utilizando el set de caracteres Latino.
 

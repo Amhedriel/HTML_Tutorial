@@ -4,7 +4,7 @@ Ahora veremos los encabezados en HTML.
 
 ## \<h1> Encabezado
 
-Los *elementos* de **encabezado** implementa seis niveles de encabezado del documento, `<h1></h1>` es el más importante y se comienda tener solo uno por página, y `<H6></H6>` el menos importante.
+Los *elementos* de **encabezado** implementa seis niveles de encabezado del documento, `<h1></h1>` es el más importante y se recomienda tener solo uno por página, y `<H6></H6>` el menos importante.
 Un elemento de encabezado describe brevemente el tema de sección que presenta.
 
 ~~~html
