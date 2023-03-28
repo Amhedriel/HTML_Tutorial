@@ -1,17 +1,16 @@
 # Estructura y comentarios
 
-## Estructura del documento HTML
+## **Estructura del documento HTML**
 
 Todos los documentos HTML tienen una estructura requerida que incluye la siguiente declaración con elementos de apertura y cierre:
 
 ```html
 <!DOCTYPE html>
-<html> </html>
+
+<html></html>
 <head> </head>
 <body> </body>
-
 ```
-
 La declaración de tipo de documento ``<!DOCTYPE html>`` informa a los navegadores web qué versión de HTML se está utilizando. Se coloca al principio del documento HTML. Después de la declaración de tipo de documento, el elemento ``<html>`` marca el comienzo del documento.
 
 Dentro del elemento `<html>`, el elemento `<head>` identifica la parte superior del documento. Sin embargo, el contenido dentro del elemento `<head>` no se muestra en la propia página web. En su lugar, debe incluir el título del documento, que se muestra en la barra de título de la ventana del navegador, enlaces a cualquier archivo externo o cualquier otra información beneficiosa.
@@ -34,13 +33,23 @@ Teniendo Visual Studio Code abierto, podemos pulsar SHIFT + 1 para poner una adm
 
 De momento utilizaremos esta estructura básica.
 
-### \<!DOCTYPE html>
+## ``<!DOCTYPE html>``
 
     <!DOCTYPE html>
 
-Define que estándar de documento estamos siguiendo, esto representa que estamos utilizando el estándar de HTML5
+La declaración conocida `<!DOCTYPE html>` es la declaración de tipo de documento, informa al navegador sobre el **tipo de documento** para cargar una página correctamente con html5 no distingue entre mayúsculas.
 
-### \<html lang="en">
+Define que estándar de documento estamos siguiendo, esto representa que estamos utilizando el estándar de HTML5.
+
+Sin embargo se debe aclarar que a pesar de esto se considera una mala práctica combinar formato entre minúsculas y mayúsculas, las etiquetas se deben tratar siempre con minúsculas  que como un arreglo escrita por el mismo lenguaje de es una buena forma de codificación.
+
+La primera línea de cada documento web debe contener una declaración ``<!DOCTYPE html>`` y a pesar de que estaba envuelto en corchetes angulares es una declaración no una etiqueta.
+<br>
+<br>
+
+## **Ahora veamos los elementos básicos de una estructura HTML** 
+
+## ``<html lang="en">``
 ~~~html
 <!-- Inicio del documento HTML -->
 <html lang="en">
@@ -49,7 +58,7 @@ Esto significa que estamos estableciendo que el documento está en ingles.
 
 Cambiar el `en` por `es` para volverlo al español.
 
-## \<head> \</head>
+## ``<head></head>``
 El head representa una colección de metadatos del documento, estos datos le pasaremos al navegador para que interprete nuestra página web, esta no tendrá una representación visual pero el navegador lo entiende.
 
 ~~~html
@@ -58,9 +67,9 @@ El head representa una colección de metadatos del documento, estos datos le pas
 </head>
 ~~~
 
-## \<title> \</title>
+## ``<title></title>``
 
-`<title></title>` representaría lo que vemos en la pestaña cuando abrimos la página web.
+La página debe tener un título, lo que aparece en el título de la pestaña en su navegador. El elemento `<title></title>` define el título de la página HTML y representaría lo que vemos en la pestaña cuando abrimos la página web.
 
 ~~~html
 <!-- Datos que le pasamos al navegador con información de nuestra página web. -->
@@ -69,7 +78,7 @@ El head representa una colección de metadatos del documento, estos datos le pas
 </head>
 ~~~
 
-## \<body> \</body>
+## ``<body></body>``
 
 Esta **etiqueta** representa todo el contenido de nuestra web, esta parte si es visible y lo oque escribamos dentro si lo podremos ver en nuestro navegador
 
@@ -80,7 +89,12 @@ Esta **etiqueta** representa todo el contenido de nuestra web, esta parte si es 
 </body>
 ~~~
 
-## Comentario
+---
+<br>
+<br>
+<br>
+
+## *Comentario*
 
 Los comentarios son utilizados para poder tener algo de información en nuestro código sin que se vea reflejado en nuestra página.
 
@@ -91,7 +105,7 @@ Los comentarios son utilizados para poder tener algo de información en nuestro 
 
 Tecla rápida CTRL + Ç
 
-## Codificación
+## *Codificación*
 
 Los acentos pertenecen a una codificación Latina que por defecto los navegadores no le entienden salvo que se lo digamos explícitamente.
 
