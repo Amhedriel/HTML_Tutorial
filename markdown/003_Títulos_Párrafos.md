@@ -2,10 +2,23 @@
 
 Ahora veremos los encabezados en HTML.
 
-## \<h1> Encabezado
+## \<h1> Encabezados
+
+Los elementos ``<h1>`` y ``<h6>`` especifican encabezados. Se puede utilizar un encabezado para titular el documento de la página web o partes de su contenido. Úsalos para señalar títulos y nombres de contenido.
+
+~~~html
+<h1>Heading text - Level 1. Most Important Heading</h1>
+<h2>Heading text - Level 2</h2>
+<h3>Heading text - Level 3</h3>
+<h4>Heading text - Level 4</h4>
+<h5>Heading text - Level 5</h5>
+<h6>Heading text - Level 6. Least Important Heading</h6>
+~~~
 
 Los *elementos* de **encabezado** implementa seis niveles de encabezado del documento, `<h1></h1>` es el más importante y se recomienda tener solo uno por página, y `<H6></H6>` el menos importante.
 Un elemento de encabezado describe brevemente el tema de sección que presenta.
+
+
 
 ~~~html
 <body>
@@ -49,7 +62,7 @@ Los párrafos son elementos de nivel de bloque y, en particular, se cerrarán au
 </body>
 ~~~
 
-
+> *Nota: Los párrafos HTML no tienen ningún formato; Debe agregarse manualmente.
 
 ---
 
