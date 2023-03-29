@@ -33,7 +33,7 @@ Esta lista se ve en pantalla de la siguiente forma:
     type: Estilo de los items (disc, square, circle)
     
 * <b>ol</b>
-    type: Estilo de numeraación (1, A, a, I, i)
+    type: Estilo de numeración (1, A, a, I, i)
     start: Inicio de la secuencia (un número)
 </pre>
 
@@ -85,6 +85,26 @@ Estamos indicando que la lista empiece por la tercera letra del abecedario, en e
 
 ![Letras_ordenadas_c](/media/Listas_abecedario_desde_c.png "lista con letras ordenadas desde la c")
 
+## Listas de Descripción HTML
+
+Las listas de descripción HTML se pueden utilizar para enumerar las entradas y sus descripciones cercanas. Los navegadores normalmente sangran la descripción proporcionada.
+
+Para generar una lista de descripción en HTML, deberá utilizar tres etiquetas:
+
+- ``<dl>`` para definir una lista de descripción;
+- ``<dt>`` nombrar las entradas;
+- ``<dd>`` para proporcionar descripciones.
+
+Aquí hay un ejemplo:
+
+```html
+<dl>
+  <dt>Auto</dt>
+  <dd>un vehículo utilizado para transportarse.</dd>
+  <dt>Globo aerostático</dt>
+  <dd>Un vehículo utilizado para el transporte divertido.</dd>
+</dl>
+```
 
 [Siguiente **&#129042;**](/markdown/017_Tablas.md "")
 
