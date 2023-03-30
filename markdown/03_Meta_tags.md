@@ -14,19 +14,44 @@ Si hace clic en ese resultado, Google lo llevará inmediatamente a la parte rele
 
 En esta sección, repasaremos las meta etiquetas más cruciales para SEO, su propósito y consejos sobre cómo optimizar su uso.
 
-*Nota: Si bien hay más de 90 categorías de meta etiquetas, no todas forman parte de las métricas de clasificación SEO.
+> *Nota: Si bien hay más de 90 categorías de meta etiquetas, no todas forman parte de las métricas de clasificación SEO.
+
+## Meta ventana gráfica
+
+La etiqueta meta viewport es responsable de representar correctamente su página en pantallas de diferentes tamaños. Esto es importante si desea que su sitio web sea accesible no solo en el escritorio sino también en una tableta, teléfono inteligente u otro dispositivo.
+
+![Meta Viewport](/media/Viewport.jpg "Meta Viewport")
+
+### Propósito SEO
+
+Nadie quiere visitar un sitio web solo de escritorio en su teléfono. Después de todo, en 2019, más de la mitad del tráfico de Internet provino de dispositivos móviles. Google lo sabe, por lo que penalizan a los sitios web que no utilizan meta viewport y diseño receptivo.
+
+> *Nota: Una etiqueta meta viewport no es suficiente para hacer que un sitio web sea compatible con dispositivos móviles. Como aprendiste en la sección de diseño web, el diseño receptivo lleva la peor parte del trabajo.
+
+Ejemplo de código:
+
+Esta es la forma más común de agregar una etiqueta meta viewport en su código HTML:
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+### Prácticas recomendadas
+
+Agregue la etiqueta meta viewport a todas sus páginas web.
+
+A menos que esté familiarizado con la etiqueta viewport, use la versión más común (consulte más arriba).
+Compruebe si su página es compatible con dispositivos móviles [con esta herramienta](https://search.google.com/test/mobile-friendly).
 
 ## Etiqueta de título
 
 ¿Conoces esos titulares en los que se puede hacer clic en tus SERP? Esta es la única meta etiqueta que realmente verá cuando mire un sitio web, ya que también aparece en la pestaña de su navegador. Se crea a través de la etiqueta <title>.
 
 
-![Meta Description](/media/Meta%20Title.jpg "Meta Description")
+![Meta Title](/media/Meta%20Title.jpg "Meta Title")
 
 
 > *Nota: Una página web solo puede tener una etiqueta <título>.
 
-### Propósito SEO
+### Propósito SEO rating
 
 No debes juzgar un libro por su portada, pero los usuarios suelen juzgar una página por su título. La etiqueta `<title>` es el contenido principal por el cual el usuario decide si desea o no visitar su página.
 
@@ -109,7 +134,7 @@ Si hace un mal uso de la etiqueta meta robots, su sitio podría enfrentar consec
 
   - follow/nofollow: indica a los motores de búsqueda cómo deben actuar con los enlaces de tus páginas, es decir, si deben confiar y seguir los enlaces que has añadido.
 
-> *Nota: Si desea agregar nofollow a un enlace individual, en lugar de una etiqueta meta robots, debe agregar rel = "nofollow" a los atributos de la etiqueta <a>.
+> *Nota: Si desea agregar nofollow a un enlace individual, en lugar de una etiqueta meta robots, debe agregar ``rel="nofollow"`` a los atributos de la etiqueta ``<a>``.
 
 Ejemplo de código:
 
@@ -134,32 +159,16 @@ Así es como puede combinar los valores mencionados anteriormente:
   - No utilices la etiqueta meta robots en el archivo .txt robots.
   - Recuerde que los rastreadores maliciosos probablemente ignorarán sus directivas de meta robots. Si hay información sensible o confidencial involucrada, utilice mecanismos de seguridad alternativos (por ejemplo, protección con contraseña) para proteger su sitio web.
 
-## Meta ventana gráfica
-
-La etiqueta meta viewport es responsable de representar correctamente su página en pantallas de diferentes tamaños. Esto es importante si desea que su sitio web sea accesible no solo en el escritorio sino también en una tableta, teléfono inteligente u otro dispositivo.
-
-![Meta Viewport](/media/Viewport.jpg "Meta Viewport")
-
-### Propósito SEO
-
-Nadie quiere visitar un sitio web solo de escritorio en su teléfono. Después de todo, en 2019, más de la mitad del tráfico de Internet provino de dispositivos móviles. Google lo sabe, por lo que penalizan a los sitios web que no utilizan meta viewport y diseño receptivo.
-
-> *Nota: Una etiqueta meta viewport no es suficiente para hacer que un sitio web sea compatible con dispositivos móviles. Como aprendiste en la sección de diseño web, el diseño receptivo lleva la peor parte del trabajo.
-
-Ejemplo de código:
-
-Esta es la forma más común de agregar una etiqueta meta viewport en su código HTML:
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-### Prácticas recomendadas
-
-Agregue la etiqueta meta viewport a todas sus páginas web.
-A menos que esté familiarizado con la etiqueta viewport, use la versión más común (consulte más arriba).
-Compruebe si su página es compatible con dispositivos móviles [con esta herramienta](https://search.google.com/test/mobile-friendly).
-
-
 ---
+
+Las meta etiquetas se pueden utilizar para informar a Google de qué se trata el contenido, como por ejemplo: podemos indicar que esta página es solo para adultos:
+
+   	<meta name=”rating” content=”adult”>
+
+Hazle saber a Google que no quieres que se traduzca esta página:
+
+    <meta name="google" content="notranslate">
+
 
 Ahora que has intentado crear y formatear sitios web simples, diríamos que ya es hora de que subas tu juego y comiences a usar meta etiquetas. Después de todas estas lecciones, ¡(con suerte) sabes cómo!
 
