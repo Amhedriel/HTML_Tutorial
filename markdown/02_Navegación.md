@@ -97,6 +97,7 @@ Esto no solo es útil para movernos dentro de la misma página, podríamos desde
 </body>
 ~~~
 Con esta adición de **``<nav></nav>``** en nuestro **index.html** nos habilita un menú a los posts de nuestra página de **blog.html**
+
 ---
 
 [Siguiente **&#129042;**](/markdown/README.md "Ir a Readme")
